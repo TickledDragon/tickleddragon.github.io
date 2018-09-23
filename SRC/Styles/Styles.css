@@ -2,8 +2,25 @@ h1 {
     color: purple;
 }
 
+img{
+    width: 250px;
+    height: auto;
+}
+
+body{
+    background-color: chocolate
+    margin: 0 auto;
+    text-align: center;
+}
+
 #titleBox {
     background-color: aqua;
     margin: 30px;
     border: 2px dotted saddlebrown; 
+}
+
+.listBox{
+    background-color: burlywood;
+    margin: 35px;
+    border: 1px dotted pink;
 }

@@ -2,12 +2,12 @@ h1 {
     color: purple;
 }
 
-img{
+img {
     width: 250px;
     height: auto;
 }
 
-body{
+body {
     background-color: chocolate
     margin: 0 auto;
     text-align: center;
@@ -19,7 +19,7 @@ body{
     border: 2px dotted saddlebrown; 
 }
 
-.listBox{
+.listBox {
     background-color: burlywood;
     margin: 35px;
     border: 1px dotted pink;
